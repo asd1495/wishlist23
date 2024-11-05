@@ -37,6 +37,12 @@ document.addEventListener('DOMContentLoaded', function() {
             url: "https://www.amazon.com.mx/Nier-Automata-Short-Story-Long/dp/1974701840/ref=srd_d_psims_d_sccl_2_4/147-5310940-6819020?pd_rd_w=iZ2CF&content-id=amzn1.sym.05004666-285b-4520-8e91-84836f1d7a62&pf_rd_p=05004666-285b-4520-8e91-84836f1d7a62&pf_rd_r=2GF9Q6XTEBYXCT9RJ0GM&pd_rd_wg=3xqmf&pd_rd_r=aa13ce40-6d0f-4ab0-b8c1-22892eb6b3ae&pd_rd_i=1974701840&psc=1",
             price: "$294.00"
         },
+        {
+            title: "Squishmallow Pikachu",
+            imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp",
+            url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
+            price: "$382.00"
+        },
     ];
 
     const wishlistElement = document.getElementById('wishlist');
