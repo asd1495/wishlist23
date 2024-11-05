@@ -2,91 +2,41 @@
 document.addEventListener('DOMContentLoaded', function() {
     const wishlistItems = [
         {
-            title: "CrisTales PS5",
-            imageUrl: 'https://m.media-amazon.com/images/I/81y9aUUjxHL._AC_UF1000,1000_QL80_.jpg',
-            url: "https://gameplanet.com/producto/cris-tales-ps5/",    
+            title: "Kingdom Hearts: Melody of Memory | PS4",
+            imageUrl: 'https://m.media-amazon.com/images/I/71Ffn6hGGGL._AC_SL1000_.jpg',
+            url: "https://www.amazon.com.mx/Kingdom-Hearts-Melod%C3%ADa-memoria-PS4/dp/B08GYTC39V/ref=sr_1_3?crid=9FJL53X0M4W4&dib=eyJ2IjoiMSJ9.uowhHj3ncFAYoqp2IydM_T21Hae5IeUZRyZqTpEoXAzBnMxGZGhuSCRXSLJat_jBuW3O2gRkcd4hj7YhoRchYVRTUIr5eMO5xKwtIM1vvc-yW8bkXhYQQ-23X1tLhLTxf1AW2pSTNIQKtNIcGW78tyGHe4QSrSDbfDw99w8ytmohTxs8S5kXOwO7aO-jYOJfANiJwOHuICM2jMaHUO_woi-P4a_s9vtBWYntshqpOULjakc9vtatRGF2N-ZvwZiXLdrUG8ykEcxRUR1HcZBa2_FZRouERnKcy9gNW22HDd0.GG9Bw634pgFeh0DAxK5vkaDnY5QSpZdviyqtkA8W72Q&dib_tag=se&keywords=kingdom+hearts+melody+of+memory&qid=1730761842&sprefix=kingdom+hearts+melo%2Caps%2C139&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",    
             price: "$399.00"
         },
         {
-            title: "Future Noir",
-            imageUrl: "https://m.media-amazon.com/images/I/61AoeTBGRgL._AC_UF894,1000_QL80_.jpg",
-            url: "https://www.amazon.com.mx/Future-Noir-Revised-Updated-Making/dp/0062699466/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=future+noir&qid=1702864069&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$344.00"
+            title: "Lego Animal Crossing: Julian's Birthday Party",
+            imageUrl: "https://m.media-amazon.com/images/I/81NRCSaXUoL._AC_SL1500_.jpg",
+            url: "https://www.amazon.com.mx/LEGO-cumplea%C3%B1os-construcci%C3%B3n-minifigura-Videojuegos/dp/B0CGYR9ZRH/ref=sr_1_7?crid=2E6GJNGSCCX70&dib=eyJ2IjoiMSJ9.yJjDS18n0O_yK3HQckD5GhuDOuwdWisVk_rWf7wltZxjKlfACiB80ata7UezXka6luJzAAcZ5XFo08smI8pe542I4Hq4CnLxJnBmFzylguhN6QmSsGFUcPnW2TwEd4c5N9ZqRbwcC7owhwuuiuncsuUzzZVA2nOu9JeJwQr9qR1rc85E_2Vj5wjTxRc1BDPY71nv0T2BMssY7UQpD_7GouDxsJAJRbWDfd7KRhst94bL2gnNKftcqG9r3Rds0vCwEl9pDejhY9SpKroNzD77cNHGLuIIJTwVq8XC6QxqTek.bQyHOps7BhHOaxqg_MMmYxJcEucRh4i7soENtfVQGNQ&dib_tag=se&keywords=lego+animal+crossing&qid=1730761939&sprefix=lego+animal%2Caps%2C148&sr=8-7&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+            price: "$349.00"
         },
         {
-            title: "The Creative Gene",
-            imageUrl: "https://m.media-amazon.com/images/I/51iRVKfd5dL.jpg",
-            url: "https://www.amazon.com.mx/dp/197472591X/?coliid=I35WSLY7339DWZ&colid=A18Y7US5J3FQ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
-            price: "$473.00"
+            title: "Pokémon TCG: Scarlet & Violet—Shrouded Fable Mini Tin",
+            imageUrl: "https://m.media-amazon.com/images/I/7153x21ieML._AC_SL1500_.jpg",
+            url: "https://www.amazon.com.mx/Pok%C3%A9mon-TCG-Scarlet-Violet-Shrouded-Dusknoir/dp/B0D4B3K2DQ/ref=sr_1_2?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11IP6RJKUGTNR&dib=eyJ2IjoiMSJ9.aLLxbBzI49TaxVmmLfthtf0sCHZFybKf3PEMhmYnfEo-_I7u0UFzSRA3WPCId8H6g1iezjP33itz6au2P7GSJ4piEUTxyc8q16x9yxqGf-W7wHOYGGk9kcfL_z_H-jv1TIbpDCpX34DBaeKEdGd7Gm20_lzkWEpY2iiCMAUc4Ezry4lkRRv_VZmXLdTXtAuGjd8_SfmNeipZ7Dz9TdYy8xl3lVWWvSg49QELanSlw4LL_qivf8Wt9BxCXOAzb7IyCZTNkIvJJ94Xy5OdGZG1YQirBZhKOdVCVVbBtg24KV0.3b-EKRe4Z1V_zBhuRCGsk6AtC9lhSutYi3pQofzYEcE&dib_tag=se&keywords=pokemon+shrouded+fable+mini+tin&qid=1730762270&sprefix=pokemon+shrouded+fable+mini+tin%2Caps%2C133&sr=8-2&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+            price: "$209.00"
         },
         {
-            title: "The Man in the High Castle",
-            imageUrl: "https://m.media-amazon.com/images/I/51GnvfpTJ9L._AC_UF1000,1000_QL80_.jpg",
-            url: "https://www.amazon.com.mx/Man-High-Castle-Philip-Dick/dp/0547572484/ref=sr_1_1?crid=EVVH3JLSUWDO&keywords=the+man+in+the+high+castle&qid=1702864167&sprefix=the+man+in+t%2Caps%2C153&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$293.00"
+            title: "Gunpla Kun",
+            imageUrl: "https://m.media-amazon.com/images/I/61PW742MXdL._AC_SL1500_.jpg",
+            url: "https://www.amazon.com.mx/Hobby-2640762-Gunpla-Kun-Version-Recreation/dp/B0BQHH7XXQ/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=K5FV5GV752R5&dib=eyJ2IjoiMSJ9.SX4JJBaXeBzgG2_Vp5muQeGyQkhGQFeJPXI5RF6nP0AeAiseXCZNRhZDl4h113aClpA9YNc_4d4azkkKEmEqXiz6hFojAQnWfEsBFgeVR3MNQBXdQHIL1aQuSU43MFY_KtL_V5w686_y7vT5ecT3M3yw_yy5I8G6KVx9G0MUwfu6FwmNoqCNxib5kjudHnB7IOjhYPA0Vr7GNjvwDdY3rrt-NpdnTgf0U088cscZOpdHCwwu9SPBPc0w3ZiShI-FQFxQbbsjlQ2cvLAHLlCre4CUqfFDQ82s6XnZPIJL9Ow.nkKZs2Npp6I5Y6w7XGu_28ZwcpA4v-MTvRUFYc2UiJo&dib_tag=se&keywords=gunpla+kun&qid=1730762638&sprefix=gunpla+kun%2Caps%2C140&sr=8-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+            price: "$361.00"
         },
         {
-            title: "Entra al Vacío",
-            imageUrl: "https://http2.mlstatic.com/D_NQ_NP_811578-MLU71134474351_082023-O.webp",
-            url: "https://www.amazon.com.mx/dp/B01N4ICT9I/?coliid=I299H8CFGX4BVC&colid=26YH8YHIET29Q&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
-            price: "$191.00"
+            title: "Disrupting the Game",
+            imageUrl: "https://m.media-amazon.com/images/I/81OFZCCBwlL._SL1500_.jpg",
+            url: "https://www.amazon.com.mx/Disrupting-Game-Bronx-Top-Nintendo/dp/1400226678/ref=sr_1_1?crid=1UT10LHYBCY4L&dib=eyJ2IjoiMSJ9.yAv5xUx1voH2WkHPiFmOU8_td6tQ4GmDxM-s-14DdQ035uMEEkUl2KhkAuy_RIjEak_5xfUtCCi5E-PDeHomnlxSucXT3OVXFslENO5xWHT3ziEDyVmpPa9wO25_DPEUa7n35_LRaPsrOU7mzxMn6CyZU0PlJGcigUXFiIQ57-dY39KfiOacVDCCiGBKfCIp5FsmVqPalaek__ik66mDSmhNkSoLeO8_APgj7x4MTW8jy0F2Uk_o1bFOY_hAjTku.1YtCOCi3uYGmqDgqfulm9wKqv6Z8HOyThS9OMBBhdCE&dib_tag=se&keywords=disrupting+the+game&qid=1730763527&sprefix=disrupti%2Caps%2C156&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+            price: "$406.00"
         },
         {
-            title: "Akira",
-            imageUrl: "https://m.media-amazon.com/images/I/91C9pjrU1yL._AC_SL1500_.jpg",
-            url: "https://www.amazon.com.mx/dp/B00ENNA62W/?coliid=I1X4I6B0A264F2&colid=26YH8YHIET29Q&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
-            price: "$262.00"
+            title: "NieR Automata: Short Story Long",
+            imageUrl: "https://m.media-amazon.com/images/I/81S8C7mDECL._SL1500_.jpg",
+            url: "https://www.amazon.com.mx/Nier-Automata-Short-Story-Long/dp/1974701840/ref=srd_d_psims_d_sccl_2_4/147-5310940-6819020?pd_rd_w=iZ2CF&content-id=amzn1.sym.05004666-285b-4520-8e91-84836f1d7a62&pf_rd_p=05004666-285b-4520-8e91-84836f1d7a62&pf_rd_r=2GF9Q6XTEBYXCT9RJ0GM&pd_rd_wg=3xqmf&pd_rd_r=aa13ce40-6d0f-4ab0-b8c1-22892eb6b3ae&pd_rd_i=1974701840&psc=1",
+            price: "$294.00"
         },
-        {
-            title: "Squishmallow Pikachu",
-            imageUrl: "https://ss424.liverpool.com.mx/xl/1137271598.jpg",
-            url: "https://www.liverpool.com.mx/tienda/pdp/peluche-de-pikachu-jazwares-squishmallows/1137271598?skuid=1137271598",
-            price: "$374.00"
-        },
-        {
-            title: "Paprika",
-            imageUrl: "https://m.media-amazon.com/images/I/71HerJzc+zL._AC_SL1400_.jpg",
-            url: "https://www.amazon.com.mx/Paprika-Blu-ray-Importado-Akio-Ohtsuka/dp/B000VWYJ5Y/ref=sr_1_31?crid=AH5N96UQ3GQH&keywords=ghibli+blu+ray&qid=1700944141&sprefix=ghibli+b%2Caps%2C164&sr=8-31&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$334.00"
-        },
-        {
-            title: "Wish You Were Here",
-            imageUrl: "https://m.media-amazon.com/images/I/810CGm6+GbL._AC_SL1500_.jpg",
-            url: "https://www.amazon.com.mx/Wish-Were-Here-Pink-Floyd/dp/B019VQSADM/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=26MR9FHWN88MT&keywords=pink+floyd+cd&qid=1700944334&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=pink+floyd+cd%2Caps%2C175&sr=8-3&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$215.00"
-        },
-        {
-            title: "Squishmallow Piplup",
-            imageUrl: "https://ss424.liverpool.com.mx/xl/1137271580.jpg",
-            url: "https://www.liverpool.com.mx/tienda/pdp/peluche-de-piplup-jazwares-squishmallows/1137271580?skuid=1137271580",
-            price: "$374.00"
-        },
-        {
-            title: "Unfinished Tales",
-            imageUrl: "https://m.media-amazon.com/images/I/91H4kA+Ss7L._SL1500_.jpg",
-            url: "https://www.amazon.com.mx/Unfinished-Tales-J-R-Tolkien/dp/0345357116/ref=pd_sim_sccl_2_2/147-5310940-6819020?pd_rd_w=mwS4r&content-id=amzn1.sym.87ddf269-557f-4159-8d22-1398277af916&pf_rd_p=87ddf269-557f-4159-8d22-1398277af916&pf_rd_r=0KYJ2ZVMY6X9N4MNK3GN&pd_rd_wg=rX3H0&pd_rd_r=683bf26b-5e4b-4fa4-ad5f-e2f2fd3205c5&pd_rd_i=0345357116&psc=1",
-            price: "$155.00"
-        },
-        {
-            title: "Funko Spiderman JP",
-            imageUrl: "https://m.media-amazon.com/images/I/51YADEWMk2L._AC_SL1500_.jpg",
-            url: "https://www.amazon.com.mx/Pop-Japanese-Spider-Man-Vinyl-Figure/dp/B09CBX6HS4/ref=sr_1_34?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23CY6LNTURTT7&keywords=funko+spiderman&qid=1700945512&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=funko+spiderman%2Caps%2C136&sr=8-34&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$319.00"
-        },
-        {
-            title: "Funko Scarlet Spider",
-            imageUrl: "https://m.media-amazon.com/images/I/617kyN6p7mL._AC_SL1000_.jpg",
-            url: "https://www.amazon.com.mx/Funko-Pop-Spider-Man-Bobble-Head-coleccionable/dp/B0C4PBK315/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23CY6LNTURTT7&keywords=funko+spiderman&qid=1700945512&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=funko+spiderman%2Caps%2C136&sr=8-9&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47",
-            price: "$269.00"
-        },
-        {
-            title: "Cobija Rilakkuma",
-            imageUrl: "https://i.imgur.com/VY0xS0X.jpeg",
-            url: "https://g.co/kgs/hFoFKi",
-            price: "$300.00"
-        },
-        
-        // Add more items as needed
     ];
 
     const wishlistElement = document.getElementById('wishlist');

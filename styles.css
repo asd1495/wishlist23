@@ -16,7 +16,7 @@ h1 {
 #wishlist {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 30px;
     padding: 10px;
 }
 
@@ -29,10 +29,10 @@ h1 {
 }
 
 .wishlist-item img {
-    max-width: 80%; /* Smaller images */
+    max-width: 50%; /* Smaller images */
     height: auto;
     margin: 0 auto; /* Center the image */
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .wishlist-item a {
@@ -55,6 +55,6 @@ h1 {
 /* Even larger screens */
 @media (min-width: 1024px) {
     #wishlist {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
     }
 }
