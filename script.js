@@ -8,6 +8,12 @@ document.addEventListener('DOMContentLoaded', function() {
             price: "$399.00"
         },
         {
+            title: "Kingdom Hearts HD 2.8 Final Chapter Prologue | PS4",
+            imageUrl: 'https://m.media-amazon.com/images/I/81DIe4zgnPL._AC_SL1500_.jpg',
+            url: "https://www.amazon.com.mx/Kingdom-Hearts-Final-Chapter-Prologue/dp/B01CFNIMW2/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UUQB5AFDW111&dib=eyJ2IjoiMSJ9.ixAEMSh1WeZ6b7Am_jbd_7rBtr4CRjFWxGj358O3gM11wOmOk9FVAAZXhs1ulINwMvHaN75cJJf4Byjosh1E4KZvgOs5zwixGPGHWDbUzfDAOMtSWu5NtnHzuCBkWTkDlQLYQ4ov6DTk_FVUn_2IQQC3f6ayVin_a1yotk-oRJwJqXvkwB956nRF9CbgEs_fMD3z8pfL5i6POlpKJjTwC_0cTm4IGlMikLT70qvpnZm2Ua1QDL3DWxn2SAQvE3YDcc9TT21uIlGrWVni4XAqqXmTcZZWEhe1ViH9ipzjmXg.YvHuvi7EvMZ9qyfBEeXID368WMocSx-eUgkTVR1GmkI&dib_tag=se&keywords=kingdom+hearts+2.8&qid=1731004970&sprefix=kingdom+hearts+2.8%2Caps%2C152&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",    
+            price: "$399.00"
+        },
+        {
             title: "Lego Animal Crossing: Julian's Birthday Party",
             imageUrl: "https://m.media-amazon.com/images/I/81NRCSaXUoL._AC_SL1500_.jpg",
             url: "https://www.amazon.com.mx/LEGO-cumplea%C3%B1os-construcci%C3%B3n-minifigura-Videojuegos/dp/B0CGYR9ZRH/ref=sr_1_7?crid=2E6GJNGSCCX70&dib=eyJ2IjoiMSJ9.yJjDS18n0O_yK3HQckD5GhuDOuwdWisVk_rWf7wltZxjKlfACiB80ata7UezXka6luJzAAcZ5XFo08smI8pe542I4Hq4CnLxJnBmFzylguhN6QmSsGFUcPnW2TwEd4c5N9ZqRbwcC7owhwuuiuncsuUzzZVA2nOu9JeJwQr9qR1rc85E_2Vj5wjTxRc1BDPY71nv0T2BMssY7UQpD_7GouDxsJAJRbWDfd7KRhst94bL2gnNKftcqG9r3Rds0vCwEl9pDejhY9SpKroNzD77cNHGLuIIJTwVq8XC6QxqTek.bQyHOps7BhHOaxqg_MMmYxJcEucRh4i7soENtfVQGNQ&dib_tag=se&keywords=lego+animal+crossing&qid=1730761939&sprefix=lego+animal%2Caps%2C148&sr=8-7&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
