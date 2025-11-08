@@ -1,16 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Regalos Armando</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Lista de Regalos Familiar</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Opciones Armando</h1>
-    <div id="wishlist">
-        <!-- Wishlist items will be added here -->
-    </div>
+
+    <!-- header with menu icon -->
+    <header>
+        <div id="menu-icon">&#9776;</div>
+        <h1 id="main-title">Lista de Regalos</h1>
+        <div id="home-icon">&#127968;</div>
+    </header>
+
+    <!-- side nav -->
+    <nav id="side-nav">
+        <div id="nav-container">
+            <!-- families and members are populated by js file -->
+        </div>
+    </nav>
+    
+    <!-- overlay to close menu -->
+    <div id="overlay"></div>
+
+    <!-- main content area -->
+    <main>
+        <div id="wishlist">
+            <!-- content populated by js file -->
+        </div>
+    </main
+
+    <!-- Link to the external JavaScript file -->
     <script src="script.js"></script>
 </body>
 </html>
