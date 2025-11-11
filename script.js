@@ -61,12 +61,24 @@ document.addEventListener('DOMContentLoaded', function() {
             "Saúl": [ 
 
             ], 
-            "Diego": [ 
+            "Diego": [  
                 { 
-                    title: "South Park Snow Day PS5", 
-                    imageUrl: "https://m.media-amazon.com/images/I/7122t2H3-XL._AC_SL1500_.jpg", 
-                    url: "https://www.amazon.com.mx/dp/B0CXTLCCR7?ref=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1&ref_=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1&social_share=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1",
-                    price: "$288.00" 
+                    title: "Death Stranding 2", 
+                    imageUrl: "https://cdn.gameplanet.com/wp-content/uploads/2025/06/25202817/death201NEW20PRODUCT-17508802576534.jpg", 
+                    url: "https://gameplanet.com/producto/death-stranding-2-on-the-beach-ps5/",
+                    price: "$500.00" 
+                }, 
+                { 
+                    title: "Assassin's Creed Origins", 
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_798056-MLA96402195177_102025-F.webp", 
+                    url: "https://www.mercadolibre.com.mx/p/MLM15287899?pdp_filters=item_id:MLM2078210595#origin=share&sid=share&wid=MLM2078210595&action=whatsapp",
+                    price: "$415.00" 
+                }, 
+                { 
+                    title: "Marvel vs Capcom", 
+                    imageUrl: "https://m.media-amazon.com/images/I/918AfO9Yy2L._AC_SL1500_.jpg", 
+                    url: "https://www.amazon.com.mx/dp/B0D7NSB8XV?ref=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2&ref_=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2&social_share=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2",
+                    price: "$430.00" 
                 }, 
             ], 
             "Pili": [ 
