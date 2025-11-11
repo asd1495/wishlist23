@@ -5,255 +5,139 @@ document.addEventListener('DOMContentLoaded', function() {
                 { 
                     title: "Kingdom Hearts: Melody of Memory | PS4", 
                     imageUrl: 'https://m.media-amazon.com/images/I/71Ffn6hGGGL._AC_SL1000_.jpg', 
-                    url: "https://www.amazon.com.mx/Kingdom-Hearts-Melod%C3%ADa-memoria-PS4/dp/B08GYTC39V/ref=sr_1_3?crid=9FJL53X0M4W4&dib=eyJ2IjoiMSJ9.uowhHj3ncFAYoqp2IydM_T21Hae5IeUZRyZqTpEoXAzBnMxGZGhuSCRXSLJat_jBuW3O2gRkcd4hj7YhoRchYVRTUIr5eMO5xKwtIM1vvc-yW8bkXhYQQ-23X1tLhLTxf1AW2pSTNIQKtNIcGW78tyGHe4QSrSDbfDw99w8ytmohTxs8S5kXOwO7aO-jYOJfANiJwOHuICM2jMaHUO_woi-P4a_s9vtBWYntshqpOULjakc9vtatRGF2N-ZvwZiXLdrUG8ykEcxRUR1HcZBa2_FZRouERnKcy9gNW22HDd0.GG9Bw634pgFeh0DAxK5vkaDnY5QSpZdviyqtkA8W72Q&dib_tag=se&keywords=kingdom+hearts+melody+of+memory&qid=1730761842&sprefix=kingdom+hearts+melo%2Caps%2C139&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
-                    price: "$399.00" 
+                    url: "https://www.amazon.com.mx/Kingdom-Hearts-Melod%C3%ADa-memoria-PS4/dp/B08GYTC39V/ref=sr_1_3?crid=H6EO4BD7ADP7&dib=eyJ2IjoiMSJ9.NenpAhFiK9Z9IrmZ0-6OOui5jitL0JPb7ZRD4MrVBvd8XkPjlkv4-DVeDov-VgSSdgKJ1rTEC49VLVbSEigADxM79vqXj0kIvM3p4EHpbE2_aytdHOXpBMzFv2pzt9akswVDAjM6INwMNTmJ-S-RWIII9dH31fQGiL49bnYx2MC90S_xf9OrsiYjxwHedRLucT06GXVy9pkLMO0aQqXag7EzmltcELMRxEbb3B2iaRKgOSjyux7CNzBJAMjwBCdmqMO5j2PUuXu1tAjrAZibYaCsvn9Yvm3MOV7_mPYpPZs.M67JfbfWRmFmkFf6Q7J0pt7XNfWSsBuD6ki9XWkxZBA&dib_tag=se&keywords=kingdom+hearts+melody+of+memory&qid=1762733190&sprefix=kingdom+hearts+melo%2Caps%2C234&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    price: "$316.00" 
                 }, 
                 { 
-                    title: "Kingdom Hearts HD 2.8 Final Chapter Prologue | PS4", 
-                    imageUrl: 'https://m.media-amazon.com/images/I/81DIe4zgnPL._AC_SL1500_.jpg', 
-                    url: "https://www.amazon.com.mx/Kingdom-Hearts-Final-Chapter-Prologue/dp/B01CFNIMW2/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UUQB5AFDW111&dib=eyJ2IjoiMSJ9.ixAEMSh1WeZ6b7Am_jbd_7rBtr4CRjFWxGj358O3gM11wOmOk9FVAAZXhs1ulINwMvHaN75cJJf4Byjosh1E4KZvgOs5zwixGPGHWDbUzfDAOMtSWu5NtnHzuCBkWTkDlQLYQ4ov6DTk_FVUn_2IQQC3f6ayVin_a1yotk-oRJwJqXvkwB956nRF9CbgEs_fMD3z8pfL5i6POlpKJjTwC_0cTm4IGlMikLT70qvpnZm2Ua1QDL3DWxn2SAQvE3YDcc9TT21uIlGrWVni4XAqqXmTcZZWEhe1ViH9ipzjmXg.YvHuvi7EvMZ9qyfBEeXID368WMocSx-eUgkTVR1GmkI&dib_tag=se&keywords=kingdom+hearts+2.8&qid=1731004970&sprefix=kingdom+hearts+2.8%2Caps%2C152&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
-                    price: "$399.00" 
+                    title: "Poémon TCG Battle Academy", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/71Prgj3-oBL._AC_SL1500_.jpg', 
+                    url: "https://www.amazon.com.mx/Pok%C3%A9mon-Battle-Academy-Lycanroc-Corviknight/dp/B0CYT9TPN4/ref=sr_1_5?crid=M347W384I70K&dib=eyJ2IjoiMSJ9.BPx9uUaJBD3nhiSzcGjW5e1pYDrpFIiAcZTTGAsh9-ZKQdWZTGnSa713Evbt8F6QDNajbgBJk1fpzueQuA5EkFKTaQzpMzNIkveKcqSfC0MGTK8lFI7GzHTWCV1KiAVNDFSv5wJJ5azzCm8h77BSgfQF0xOwzoUc_GNJxa1_ntcul99jgHOxh67GTy_fHWRHXvo0gxEkPertP6KRW0GXOB6e3N2jxrKzPaKzf8yKkVJp-Sp-mKeNmoIUPrJa14ttz8Opj3tjdElMMHPZ9trpjF0M3FqFDOWZ2cFEGTG15E0.ENTVprp6BDB-a-mvliFt85mBruypPw-ZcPgDu1Y1arI&dib_tag=se&keywords=pokemon+battle+academy&qid=1762828756&sprefix=pokemon+battle+aca%2Caps%2C289&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+                    price: "$442.00" 
                 }, 
                 { 
-                    title: "Lego Animal Crossing: Julian's Birthday Party", 
-                    imageUrl: "https://m.media-amazon.com/images/I/81NRCSaXUoL._AC_SL1500_.jpg", 
-                    url: "https://www.amazon.com.mx/LEGO-cumplea%C3%B1os-construcci%C3%B3n-minifigura-Videojuegos/dp/B0CGYR9ZRH/ref=sr_1_7?crid=2E6GJNGSCCX70&dib=eyJ2IjoiMSJ9.yJjDS18n0O_yK3HQckD5GhuDOuwdWisVk_rWf7wltZxjKlfACiB80ata7UezXka6luJzAAcZ5XFo08smI8pe542I4Hq4CnLxJnBmFzylguhN6QmSsGFUcPnW2TwEd4c5N9ZqRbwcC7owhwuuiuncsuUzzZVA2nOu9JeJwQr9qR1rc85E_2Vj5wjTxRc1BDPY71nv0T2BMssY7UQpD_7GouDxsJAJRbWDfd7KRhst94bL2gnNKftcqG9r3Rds0vCwEl9pDejhY9SpKroNzD77cNHGLuIIJTwVq8XC6QxqTek.bQyHOps7BhHOaxqg_MMmYxJcEucRh4i7soENtfVQGNQ&dib_tag=se&keywords=lego+animal+crossing&qid=1730761939&sprefix=lego+animal%2Caps%2C148&sr=8-7&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$349.00" 
+                    title: "Squishmallow Fuecoco", 
+                    imageUrl: "https://ss424.liverpool.com.mx/xl/1153824521.jpg", 
+                    url: "https://www.liverpool.com.mx/tienda/pdp/peluche-de-fuecoco-jazwares-de-31-cm/1153824521?skuid=1153824521",
+                    price: "$321.00" 
                 }, 
                 { 
-                    title: "Pokémon TCG: Scarlet & Violet—Shrouded Fable Mini Tin", 
-                    imageUrl: "https://m.media-amazon.com/images/I/7153x21ieML._AC_SL1500_.jpg", 
-                    url: "https://www.amazon.com.mx/Pok%C3%A9mon-TCG-Scarlet-Violet-Shrouded-Dusknoir/dp/B0D4B3K2DQ/ref=sr_1_2?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11IP6RJKUGTNR&dib=eyJ2IjoiMSJ9.aLLxbBzI49TaxVmmLfthtf0sCHZFybKf3PEMhmYnfEo-_I7u0UFzSRA3WPCId8H6g1iezjP33itz6au2P7GSJ4piEUTxyc8q16x9yxqGf-W7wHOYGGk9kcfL_z_H-jv1TIbpDCpX34DBaeKEdGd7Gm20_lzkWEpY2iiCMAUc4Ezry4lkRRv_VZmXLdTXtAuGjd8_SfmNeipZ7Dz9TdYy8xl3lVWWvSg49QELanSlw4LL_qivf8Wt9BxCXOAzb7IyCZTNkIvJJ94Xy5OdGZG1YQirBZhKOdVCVVbBtg24KV0.3b-EKRe4Z1V_zBhuRCGsk6AtC9lhSutYi3pQofzYEcE&dib_tag=se&keywords=pokemon+shrouded+fable+mini+tin&qid=1730762270&sprefix=pokemon+shrouded+fable+mini+tin%2Caps%2C133&sr=8-2&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$209.00" 
+                    title: "Squishmallow Dragonite", 
+                    imageUrl: "https://ss424.liverpool.com.mx/xl/1153823398.jpg", 
+                    url: "https://www.liverpool.com.mx/tienda/pdp/peluche-de-dragonite-drag%C3%B3n-jazwares-de-32-cm/1153823398?skuid=1153823398",
+                    price: "$335.00"
                 }, 
                 { 
                     title: "Gunpla Kun", 
                     imageUrl: "https://m.media-amazon.com/images/I/61PW742MXdL._AC_SL1500_.jpg", 
                     url: "https://www.amazon.com.mx/Hobby-2640762-Gunpla-Kun-Version-Recreation/dp/B0BQHH7XXQ/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=K5FV5GV752R5&dib=eyJ2IjoiMSJ9.SX4JJBaXeBzgG2_Vp5muQeGyQkhGQFeJPXI5RF6nP0AeAiseXCZNRhZDl4h113aClpA9YNc_4d4azkkKEmEqXiz6hFojAQnWfEsBFgeVR3MNQBXdQHIL1aQuSU43MFY_KtL_V5w686_y7vT5ecT3M3yw_yy5I8G6KVx9G0MUwfu6FwmNoqCNxib5kjudHnB7IOjhYPA0Vr7GNjvwDdY3rrt-NpdnTgf0U088cscZOpdHCwwu9SPBPc0w3ZiShI-FQFxQbbsjlQ2cvLAHLlCre4CUqfFDQ82s6XnZPIJL9Ow.nkKZs2Npp6I5Y6w7XGu_28ZwcpA4v-MTvRUFYc2UiJo&dib_tag=se&keywords=gunpla+kun&qid=1730762638&sprefix=gunpla+kun%2Caps%2C140&sr=8-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
-                    price: "$361.00" 
-                }, 
-                { 
-                    title: "Disrupting the Game", 
-                    imageUrl: "https://m.media-amazon.com/images/I/81OFZCCBwlL._SL1500_.jpg", 
-                    url: "https://www.amazon.com.mx/Disrupting-Game-Bronx-Top-Nintendo/dp/1400226678/ref=sr_1_1?crid=1UT10LHYBCY4L&dib=eyJ2IjoiMSJ9.yAv5xUx1voH2WkHPiFmOU8_td6tQ4GmDxM-s-14DdQ035uMEEkUl2KhkAuy_RIjEak_5xfUtCCi5E-PDeHomnlxSucXT3OVXFslENO5xWHT3ziEDyVmpPa9wO25_DPEUa7n35_LRaPsrOU7mzxMn6CyZU0PlJGcigUXFiIQ57-dY39KfiOacVDCCiGBKfCIp5FsmVqPalaek__ik66mDSmhNkSoLeO8_APgj7x4MTW8jy0F2Uk_o1bFOY_hAjTku.1YtCOCi3uYGmqDgqfulm9wKqv6Z8HOyThS9OMBBhdCE&dib_tag=se&keywords=disrupting+the+game&qid=1730763527&sprefix=disrupti%2Caps%2C156&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$406.00" 
+                    price: "$309.00" 
                 }, 
                 { 
                     title: "NieR Automata: Short Story Long", 
                     imageUrl: "https://m.media-amazon.com/images/I/81S8C7mDECL._SL1500_.jpg", 
                     url: "https://www.amazon.com.mx/Nier-Automata-Short-Story-Long/dp/1974701840/ref=srd_d_psims_d_sccl_2_4/147-5310940-6819020?pd_rd_w=iZ2CF&content-id=amzn1.sym.05004666-285b-4520-8e91-84836f1d7a62&pf_rd_p=05004666-285b-4520-8e91-84836f1d7a62&pf_rd_r=2GF9Q6XTEBYXCT9RJ0GM&pd_rd_wg=3xqmf&pd_rd_r=aa13ce40-6d0f-4ab0-b8c1-22892eb6b3ae&pd_rd_i=1974701840&psc=1",
-                    price: "$294.00" 
+                    price: "$220.00" 
                 }, 
                 { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+                    title: "Persona 5 Tactica PS5", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/81lWolHFm5L._AC_SL1500_.jpg', 
+                    url: "https://www.amazon.com.mx/Sega-Persona-Tactica-para-PlayStation/dp/B0C8VHCHX4/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KGM7DZN1D9Y8&dib=eyJ2IjoiMSJ9.Q_qT3TYQPeuNlBJSLxypi-9h1FTCcdOaKQDEytYstBgCUo3RW6_nTl7P7ctH2GG2-RWDy4V41aJB9ZGYXUjoAWA_8x8yFTNyi2nZHBl1zZq5jtEshO-mU3hXW6_Hn5A1TBDz9gek7PBZ7QtpcKQZC5oMgn_My6a_C0I8pzC6BO4HDohvrti5fW7KiRgHYQK8kt1Z71ASqDZ3KN4DVbJLeW3FSc5FTB_Fb3_5R90zCrw.ezBEKrmLTbb_ncLwNHQUPX2GDhSdq1XSXGBvtHNJxkg&dib_tag=se&keywords=persona+5+tactica+ps5&qid=1762839296&s=videogames&sprefix=persona+5+tactica+ps%2Cvideogames%2C167&sr=1-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    price: "$422.00" 
+                },
             ], 
             "Fernando": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+                
             ], 
             "Rocío": [ 
                 { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
+                    title: "Bolsa de gatito", 
+                    imageUrl: "https://m.media-amazon.com/images/I/718v8QTckhL._AC_SX569_.jpg", 
+                    url: "https://www.amazon.com.mx/dp/B0918BVR4N?ref=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&ref_=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&social_share=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&th=1",
                     price: "$382.00" 
                 }, 
             ] 
         }, 
         "Téllez Dávila": { 
             "Saúl": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Diego": [ 
                 { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
+                    title: "South Park Snow Day PS5", 
+                    imageUrl: "https://m.media-amazon.com/images/I/7122t2H3-XL._AC_SL1500_.jpg", 
+                    url: "https://www.amazon.com.mx/dp/B0CXTLCCR7?ref=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1&ref_=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1&social_share=cm_sw_r_cso_cp_apan_dp_Z5Z1AGPRW8VAPMMRGX6C_1",
+                    price: "$288.00" 
                 }, 
             ], 
             "Pili": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "David": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Tía Pilar": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ] 
         }, 
         "Dávila Castillo": { 
             "Efritas": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Greta": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Majo": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Tía Lupita": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Tío Efras": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
         }, 
         "Rosales Dávila": { 
             "Itzel": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Manuel": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+  
             ], 
             "Isra": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Tía Edith": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https" + "://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
         }, 
         "Dávila Hernández": { 
             "Coral": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Kitty": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
             "Manolito": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Sabina": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+
             ], 
         }, 
         "Espinoza Dávila": { 
             "Tía Trini": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Tío Alexis": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "httpshttps://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
         }, 
         "Dávila Casco": { 
             "Abuela": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3057458474",
-                    price: "$382.00" 
-                }, 
+ 
             ], 
             "Tío Saúl": [ 
-                { 
-                    title: "Squishmallow Pikachu", 
-                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_911910-MLU75608828878_042024-O.webp", 
-                    url: "https://www.mercadolibre.com.mx/squishmallows-pokemon-peluche-de-pikachu-de-14-pulgadas/p/MLM35794967?pdp_filters=item_id:MLM3Videojuegos/dp/B0CGYR9ZRH/ref=sr_1_7?crid=2E6GJNGSCCX70&dib=eyJ2IjoiMSJ9.yJjDS18n0O_yK3HQckD5GhuDOuwdWisVk_rWf7wltZxjKlfACiB80ata7UezXka6luJzAAcZ5XFo08smI8pe542I4Hq4CnLxJnBmFzylguhN6QmSsGFUcPnW2TwEd4c5N9ZqRbwcC7owhwuuiuncsuUzzZVA2nOu9JeJwQr9qR1rc85E_2Vj5wjTxRc1BDPY71nv0T2BMssY7UQpD_7GouDxsJAJRbWDfd7KRhst94bL2gnNKftcqG9r3Rds0vCwEl9pDejhY9SpKroNzD77cNHGLuIIJTwVq8XC6QxqTek.bQyHOps7BhHOaxqg_MMmYxJcEucRh4i7soENtfVQGNQ&dib_tag=se&keywords=lego+animal+crossing&qid=1730761939&sprefix=lego+animal%2Caps%2C148&sr=8-7&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$382.00" 
-                }, 
+
             ], 
         } 
     };
@@ -274,35 +158,35 @@ document.addEventListener('DOMContentLoaded', function() {
         document.body.classList.toggle('nav-open');
     }
 
-    //grid column style for the wishlist container
-    function setGridColumns(type) {
-        let columns = '1fr'; // default mobile
-        if (type === 'families' || type === 'members') {
-            if (window.innerWidth >= 1024) {
-                columns = 'repeat(4, 1fr)';
-            } else if (window.innerWidth >= 600) {
-                columns = 'repeat(3, 1fr)';
-            } else {
-                columns = 'repeat(2, 1fr)';
-            }
-        } else if (type === 'items') {
-            if (window.innerWidth >= 1024) {
-                columns = 'repeat(4, 1fr)';
-            } else if (window.innerWidth >= 600) {
-                columns = 'repeat(2, 1fr)';
-            } else {
-                columns = '1fr';
+    function clearActive() {
+        const active = document.querySelector('.member-name.active');
+        if (active) {
+            const active = document.querySelector('.member-name.active');
+            if (active) {
+                active.classList.remove('active');
             }
         }
-        wishlistElement.style.gridTemplateColumns = columns;
+    }
+
+    function setActive(memberName) {
+        clearActive();
+        const allMembers = document.querySelectorAll('.member-name');
+        allMembers.forEach(memberEl => {
+            if (memberEl.textContent === memberName) {
+                memberEl.classList.add('active');
+            }
+        });
     }
 
     //displays the main grid of family cards
     function displayFamilyCards() {
+        window.scrollTo(0, 0);
+        clearActive();
         wishlistElement.innerHTML = ''; // clear content
         mainTitle.textContent = 'Familias';
         homeIcon.style.display = 'none'; // hide home icon on home page
-        setGridColumns('families');
+        //setGridColumns('families');
+        wishlistElement.className = 'grid-cards'
 
         const sortedFamilyNames = Object.keys(familyItems).sort();
         
@@ -318,9 +202,13 @@ document.addEventListener('DOMContentLoaded', function() {
     //displays the grid of member cards for a specific family
     function displayMemberCards(familyName) {
         wishlistElement.innerHTML = '';
+        window.scrollTo(0, 0);
+        clearActive();
+        wishlistElement.innerHTML = '';
         mainTitle.textContent = familyName;
         homeIcon.style.display = 'block'; // show home icon
-        setGridColumns('members');
+        //setGridColumns('members');
+        wishlistElement.className = 'grid-cards';
 
         const sortedMemberNames = Object.keys(familyItems[familyName]).sort();
 
@@ -339,7 +227,9 @@ document.addEventListener('DOMContentLoaded', function() {
         wishlistElement.innerHTML = '';
         mainTitle.textContent = `Opciones ${memberName}`;
         homeIcon.style.display = 'block'; // show home icon
-        setGridColumns('items'); // set grid for items
+        //setGridColumns('items'); // set grid for items
+        setActive(memberName);
+        wishlistElement.className = 'grid-items';
 
         if (items && items.length > 0) {
             items.forEach(item => {
@@ -356,7 +246,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 wishlistElement.appendChild(itemElement);
             });
         } else {
-            wishlistElement.innerHTML = `<p style="text-align: center; grid-column: 1 / -1;">La lista de ${memberName} está vacía.</p>`;
+            wishlistElement.innerHTML = `<p style="text-align: center; grid-column: 1 / -1; color:#7a2a2a; font-weight: bold">La lista de ${memberName} está vacía :(</p>`;
         }
 
         if (document.body.classList.contains('nav-open')) {
@@ -382,7 +272,19 @@ document.addEventListener('DOMContentLoaded', function() {
             memberList.className = 'member-list';
 
             familyElement.addEventListener('click', () => {
-                memberList.style.display = memberList.style.display === 'block' ? 'none' : 'block';
+
+                const wasOpen = memberList.style.display === 'block';
+
+                const allMembersList = navContainer.querySelectorAll('.member-list');
+                allMembersList.forEach(list => {
+                    list.style.display = 'none';
+                });
+
+                if (!wasOpen) {
+                    memberList.style.display = 'block';
+                }
+
+                /*memberList.style.display = memberList.style.display === 'block' ? 'none' : 'block';*/
             });
 
             const sortedMemberNames = Object.keys(familyItems[familyName]).sort();
@@ -417,7 +319,7 @@ document.addEventListener('DOMContentLoaded', function() {
     displayFamilyCards();
     
     //add resize listener to adjust grid columns dynamically
-    window.addEventListener('resize', () => {
+    /*window.addEventListener('resize', () => {
         const currentView = mainTitle.textContent;
         if (familyItems[currentView]) {
             setGridColumns('members');
@@ -426,5 +328,5 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             setGridColumns('items');
         }
-    });
+    });*/
 });
