@@ -80,6 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
                     url: "https://www.amazon.com.mx/dp/B0D7NSB8XV?ref=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2&ref_=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2&social_share=cm_sw_r_cso_wa_apan_dp_4A0ASYSFQ1KFVHPF6DH2",
                     price: "$430.00" 
                 }, 
+                {
+                    title: "Resident Evil Village PS5",
+                    imageUrl: "https://m.media-amazon.com/images/I/81E09HpdK8L._AC_SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0B75WMSFP?ref=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT&ref_=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT&social_share=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT",
+                    price: "510"
+                },
             ], 
             "Pili": [ 
  
