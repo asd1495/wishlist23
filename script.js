@@ -41,12 +41,47 @@ document.addEventListener('DOMContentLoaded', function() {
                 { 
                     title: "Persona 5 Tactica PS5", 
                     imageUrl: 'https://m.media-amazon.com/images/I/81lWolHFm5L._AC_SL1500_.jpg', 
-                    url: "https://www.amazon.com.mx/Sega-Persona-Tactica-para-PlayStation/dp/B0C8VHCHX4/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KGM7DZN1D9Y8&dib=eyJ2IjoiMSJ9.Q_qT3TYQPeuNlBJSLxypi-9h1FTCcdOaKQDEytYstBgCUo3RW6_nTl7P7ctH2GG2-RWDy4V41aJB9ZGYXUjoAWA_8x8yFTNyi2nZHBl1zZq5jtEshO-mU3hXW6_Hn5A1TBDz9gek7PBZ7QtpcKQZC5oMgn_My6a_C0I8pzC6BO4HDohvrti5fW7KiRgHYQK8kt1Z71ASqDZ3KN4DVbJLeW3FSc5FTB_Fb3_5R90zCrw.ezBEKrmLTbb_ncLwNHQUPX2GDhSdq1XSXGBvtHNJxkg&dib_tag=se&keywords=persona+5+tactica+ps5&qid=1762839296&s=videogames&sprefix=persona+5+tactica+ps%2Cvideogames%2C167&sr=1-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    url: "https://www.amazon.com.mx/TERPORT-12000DPI-Ajustables-Programables-Computadora/dp/B0C3QG5YMM/ref=mp_s_a_1_16?crid=3A1H7AS8100QG&dib=eyJ2IjoiMSJ9.cdrUBZk76HIjm6ZOlJjkaq9f48OWWKUnjkS-BpJ2BatJ8abl0CXuOzT7-8GexIz8jvwqzm_tJ_Xcw8Gu-jPWUW3mY_-ZHnBlSZaIDoPZguYkmvitbhDG-zLn1KTyYaSvWr67gMgAlV2p5CvsbjvmSdOHUVV8a9LoTsqAHG5he4vgTcJSwe5qgKCa-bvFH6jiFE8iv9rvDRY5G3_c2doQKg._xV5RaprI-7IyruFG8TDXITwkRxrTKgyctVkPjXDiDs&dib_tag=se&keywords=mouse+alambrico+gamer&qid=1763141095&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=%2Caps%2C126&sr=8-16&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
                     price: "$422.00" 
                 },
             ], 
             "Fernando": [ 
-                
+                { 
+                    title: "Mouse", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/61lCJsdW2XL._AC_SL1336_.jpg', 
+                    url: "https://www.amazon.com.mx/Sega-Persona-Tactica-para-PlayStation/dp/B0C8VHCHX4/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KGM7DZN1D9Y8&dib=eyJ2IjoiMSJ9.Q_qT3TYQPeuNlBJSLxypi-9h1FTCcdOaKQDEytYstBgCUo3RW6_nTl7P7ctH2GG2-RWDy4V41aJB9ZGYXUjoAWA_8x8yFTNyi2nZHBl1zZq5jtEshO-mU3hXW6_Hn5A1TBDz9gek7PBZ7QtpcKQZC5oMgn_My6a_C0I8pzC6BO4HDohvrti5fW7KiRgHYQK8kt1Z71ASqDZ3KN4DVbJLeW3FSc5FTB_Fb3_5R90zCrw.ezBEKrmLTbb_ncLwNHQUPX2GDhSdq1XSXGBvtHNJxkg&dib_tag=se&keywords=persona+5+tactica+ps5&qid=1762839296&s=videogames&sprefix=persona+5+tactica+ps%2Cvideogames%2C167&sr=1-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    price: "$291.00" 
+                },
+                { 
+                    title: "Gundam HG Lfrith", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/61IXZciReXL._AC_SL1200_.jpg', 
+                    url: "https://www.amazon.com.mx/BANDAI-Hobby-Mercury-Gundam-LFRITH/dp/B0B4NNKYCD/ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+                    price: "$410.00" 
+                },
+                { 
+                    title: "Gundam HG Stark Jegan", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/71Fc5AztFfL._AC_SL1348_.jpg', 
+                    url: "https://www.amazon.com.mx/RGM-89S-Stark-Jegan-Mobile-Gundam/dp/B002Z6ISQU/ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+                    price: "$420.00" 
+                },
+                { 
+                    title: "Gundam HG Calibarn", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/61CiHvDnuWL._AC_SL1500_.jpg', 
+                    url: "https://www.amazon.com.mx/BANDAI-Witch-Mercury-art%C3%ADculo-Tentativo/dp/B0BYYMKV2B/ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.fos.1f47693a-e1a6-4b06-ba29-28033858cf82&th=1",
+                    price: "$479.00" 
+                },
+                { 
+                    title: "Gundam HG Gouf", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/61Hc+YmTDTL._AC_SL1079_.jpg', 
+                    url: "https://www.amazon.com.mx/Bandai-Revive-Mobile-Gundam-Building/dp/B01BD3NIJ2/ref=mp_s_a_1_30?crid=1V3QB8A9XKMIM&dib=eyJ2IjoiMSJ9.nX-EM9qaF8WSGcYtbYaTXGVXjGtxZ6xeMJCKWLJqdagq0LY81SGkX5a-7X-VbQbnVRPBmeFOrcPTu9JjXdWD0gf4t1Hi2kQfBRXnGesvX1mQ3KkD4o1IZkFjAkL0onNg46Upb1rKHAvBe-7tmmoRlteHa92rveMRrIunzdT4J6AQyDwXU5WrVAPSv2W3LIFc7hYOsZ70kx9TBdkSC4fZnQ.GYxzhkIhjt253Ce29tMTQhXUAy9BAZZ0kJYEMWUUd5c&dib_tag=se&keywords=gunpla+hg&qid=1763141348&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=gunpla+h%2Caps%2C156&sr=8-30&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&xpid=Ia2TaawpROuf5",
+                    price: "$399.00" 
+                },
+                { 
+                    title: "Tarjeta de Steam (venden en oxxo)", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/71Tnsa5nveL.jpg', 
+                    url: "Oxxo",
+                    price: "$200.00" 
+                },
             ], 
             "Rocío": [ 
                 { 
@@ -84,7 +119,19 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: "Resident Evil Village PS5",
                     imageUrl: "https://m.media-amazon.com/images/I/81E09HpdK8L._AC_SL1500_.jpg",
                     url: "https://www.amazon.com.mx/dp/B0B75WMSFP?ref=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT&ref_=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT&social_share=cm_sw_r_cso_wa_apan_dp_530NDQHG9S3CXTV01FWT",
-                    price: "510"
+                    price: "$510"
+                },
+                {
+                    title: "Megaman Zero-ZX Switch",
+                    imageUrl: "https://www.slang.vg/cdn/shop/files/145daa909fa4598978fff6e3da8de049.jpg?v=1746628302",
+                    url: "https://www.slang.vg/products/mega-man-zero-zx-legacy-collection",
+                    price: "$399"
+                },
+                {
+                    title: "Super Monkey Ball Banana Rumble",
+                    imageUrl: "https://m.media-amazon.com/images/I/71BQ1UPgqVL._AC_SL1499_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0CW3W97PS?ref=cm_sw_r_cso_wa_apan_dp_HF9QM2FJGVS80S83N7WV&ref_=cm_sw_r_cso_wa_apan_dp_HF9QM2FJGVS80S83N7WV&social_share=cm_sw_r_cso_wa_apan_dp_HF9QM2FJGVS80S83N7WV",
+                    price: "$420"
                 },
             ], 
             "Pili": [ 
@@ -130,16 +177,43 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 
         "Dávila Hernández": { 
             "Coral": [ 
-
+                { 
+                    title: "Leggings capri talle alto negro talla M", 
+                    imageUrl: "https://sololegginspe.com/cdn/shop/files/CAPRI-NEGRO024.jpg?v=1694712326", 
+                    url: "",
+                    price: "" 
+                }, 
+                { 
+                    title: "Rompevientos negro talla M ", 
+                    imageUrl: "https://sololegginspe.com/cdn/shop/files/CAPRI-NEGRO024.jpg?v=1694712326", 
+                    url: "",
+                    price: "" 
+                },
             ], 
             "Kitty": [ 
 
             ], 
             "Manolito": [ 
- 
+                { 
+                    title: "Sudadera bonita de Bershka o H&M que no sea negra", 
+                    imageUrl: "https://www.findlayhats.com/cdn/shop/products/MysteryHoodie.jpg?v=1613463680&width=2048", 
+                    url: "",
+                    price: "" 
+                },
             ], 
             "Sabina": [ 
-
+                { 
+                    title: "Gato de peluche Minecraft", 
+                    imageUrl: "https://m.media-amazon.com/images/I/71hJVmt2gjL.jpg", 
+                    url: "",
+                    price: "" 
+                },
+                { 
+                    title: "Set veterinario", 
+                    imageUrl: "https://m.media-amazon.com/images/I/81ErH+30olL._AC_SL1500_.jpg", 
+                    url: "https://www.amazon.com.mx/YUJWW-Accesorios-Veterinario-Examinar-Imaginativo/dp/B0DY1647W7/ref=sr_1_7?dib=eyJ2IjoiMSJ9.wdJj0saMDk3Pa_2avD5_NAqD-l_aEmVXoUBSYFDcrIuinWIiA3q9VJaJFiHS9vp0mOC7QpaaJEmLaWJ0wmdofQxkZG_DZ-5mQAYHgaHu_qlMw1Uc7G5UKXm3Pb8lgzQIBTVm3SbTuqea2PUREUjLNzu_0P3oTbNby0KgfPVYG9-8baRL_i3puxXAFwkotqtZJ9PpI_3sOB-KqPISgB6BwRtmJTtFVjkVmAo6NodHS1qWvoJwz84HtIx6CoyXaah__zKeI66pTBJeFLW0Prxh5gssYFg1PPjLo3ISYrJpuhk.OIQLaiHz1h0YEuXBYsx6djcdUZ-ln36g4ybRJxW5Heg&dib_tag=se&keywords=set%2Bveterinario&qid=1763143976&sr=8-7&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&th=1",
+                    price: "" 
+                },
             ], 
         }, 
         "Espinoza Dávila": { 
