@@ -6,13 +6,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: "Kingdom Hearts: Melody of Memory | PS4", 
                     imageUrl: 'https://m.media-amazon.com/images/I/71Ffn6hGGGL._AC_SL1000_.jpg', 
                     url: "https://www.amazon.com.mx/Kingdom-Hearts-Melod%C3%ADa-memoria-PS4/dp/B08GYTC39V/ref=sr_1_3?crid=H6EO4BD7ADP7&dib=eyJ2IjoiMSJ9.NenpAhFiK9Z9IrmZ0-6OOui5jitL0JPb7ZRD4MrVBvd8XkPjlkv4-DVeDov-VgSSdgKJ1rTEC49VLVbSEigADxM79vqXj0kIvM3p4EHpbE2_aytdHOXpBMzFv2pzt9akswVDAjM6INwMNTmJ-S-RWIII9dH31fQGiL49bnYx2MC90S_xf9OrsiYjxwHedRLucT06GXVy9pkLMO0aQqXag7EzmltcELMRxEbb3B2iaRKgOSjyux7CNzBJAMjwBCdmqMO5j2PUuXu1tAjrAZibYaCsvn9Yvm3MOV7_mPYpPZs.M67JfbfWRmFmkFf6Q7J0pt7XNfWSsBuD6ki9XWkxZBA&dib_tag=se&keywords=kingdom+hearts+melody+of+memory&qid=1762733190&sprefix=kingdom+hearts+melo%2Caps%2C234&sr=8-3&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
-                    price: "$316.00" 
+                    price: "$399.00" 
                 }, 
                 { 
-                    title: "Poémon TCG Battle Academy", 
-                    imageUrl: 'https://m.media-amazon.com/images/I/71Prgj3-oBL._AC_SL1500_.jpg', 
-                    url: "https://www.amazon.com.mx/Pok%C3%A9mon-Battle-Academy-Lycanroc-Corviknight/dp/B0CYT9TPN4/ref=sr_1_5?crid=M347W384I70K&dib=eyJ2IjoiMSJ9.BPx9uUaJBD3nhiSzcGjW5e1pYDrpFIiAcZTTGAsh9-ZKQdWZTGnSa713Evbt8F6QDNajbgBJk1fpzueQuA5EkFKTaQzpMzNIkveKcqSfC0MGTK8lFI7GzHTWCV1KiAVNDFSv5wJJ5azzCm8h77BSgfQF0xOwzoUc_GNJxa1_ntcul99jgHOxh67GTy_fHWRHXvo0gxEkPertP6KRW0GXOB6e3N2jxrKzPaKzf8yKkVJp-Sp-mKeNmoIUPrJa14ttz8Opj3tjdElMMHPZ9trpjF0M3FqFDOWZ2cFEGTG15E0.ENTVprp6BDB-a-mvliFt85mBruypPw-ZcPgDu1Y1arI&dib_tag=se&keywords=pokemon+battle+academy&qid=1762828756&sprefix=pokemon+battle+aca%2Caps%2C289&sr=8-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$442.00" 
+                    title: "Pokémon TCG Battle Deck", 
+                    imageUrl: 'https://m.media-amazon.com/images/I/81fuPY2PJ8L._AC_SL1500_.jpg', 
+                    url: "https://www.amazon.com.mx/Pok%C3%A9mon-Tapu-Koko-Leaves-Battle/dp/B0DC651JYB/ref=sr_1_5?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=28R68LDZ6VB5K&dib=eyJ2IjoiMSJ9.9xS04gOG8D1hm04TWs6-WcjKJ14Z-aDlTaoQksIOqVeTGyP0cPqUbdkl4njjmaLkcioDMVqaTpFwvo2xAu0SOOujfon-cFS-zxgB46o6IICiDXAxkb_mus-MbivW0P4DCKxBpsu7bL14pWZVeJG65sb-CFAHMuTTdtWrxK98YblL4ejOKVeaGhkCmFplhDkLN1GdZo7wuRtAj3z-DBsiwyuWFcZmIVYcX33RSUQVd_8eFf0zYIGQwFUb-k3FchXsxr9-sjP60m5RSjz9jQIfIQfR85o9L6H0-LBcHGFeC4w.6Zu-kuLDmAERecUw5O6qs-qlXJmn3ZxvxH8TE4DOezE&dib_tag=se&keywords=pokemon+tcg+deck&qid=1763236141&s=toys&sprefix=pokemon+tcg+deck%2Ctoys%2C178&sr=1-5&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+                    price: "$222.00" 
                 }, 
                 { 
                     title: "Squishmallow Fuecoco", 
@@ -41,15 +41,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 { 
                     title: "Persona 5 Tactica PS5", 
                     imageUrl: 'https://m.media-amazon.com/images/I/81lWolHFm5L._AC_SL1500_.jpg', 
-                    url: "https://www.amazon.com.mx/TERPORT-12000DPI-Ajustables-Programables-Computadora/dp/B0C3QG5YMM/ref=mp_s_a_1_16?crid=3A1H7AS8100QG&dib=eyJ2IjoiMSJ9.cdrUBZk76HIjm6ZOlJjkaq9f48OWWKUnjkS-BpJ2BatJ8abl0CXuOzT7-8GexIz8jvwqzm_tJ_Xcw8Gu-jPWUW3mY_-ZHnBlSZaIDoPZguYkmvitbhDG-zLn1KTyYaSvWr67gMgAlV2p5CvsbjvmSdOHUVV8a9LoTsqAHG5he4vgTcJSwe5qgKCa-bvFH6jiFE8iv9rvDRY5G3_c2doQKg._xV5RaprI-7IyruFG8TDXITwkRxrTKgyctVkPjXDiDs&dib_tag=se&keywords=mouse+alambrico+gamer&qid=1763141095&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=%2Caps%2C126&sr=8-16&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
-                    price: "$422.00" 
+                    url: "https://www.amazon.com.mx/Sega-Persona-Tactica-para-PlayStation/dp/B0C8VHCHX4/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=165S85KZEIGZX&dib=eyJ2IjoiMSJ9.Q_qT3TYQPeuNlBJSLxypi-9h1FTCcdOaKQDEytYstBhxCP7A_EnJNwqNVmQpgq2DJEF_Iq96xjra0EEhiOEzglxJUVdFu-hVnFzaULVzfj-5jtEshO-mU3hXW6_Hn5A18gXJm7Xx4wD5QEc7ncoEY_eKTbps-y8caQdF4ZYtf4himgrFMqEYGzIQ_DOsYAHpdrT2HSunSn-FxnPOV7buDrRXKjL0dK0IlpWmc0xkbFFOB-3b2-nwS38GBJoF0kw0Kz4x5sWI4CBlRI33WXk3to8agxWxVDKIHvp-OIZnMOI.1GTp6Htjey_LgffXSTUgB3qCm8SafFsAeajdP1pFUQw&dib_tag=se&keywords=persona+5+tactica+ps5&qid=1763237007&sprefix=persona+5+tactica+ps%2Caps%2C179&sr=8-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    price: "$388.00" 
                 },
             ], 
             "Fernando": [ 
                 { 
                     title: "Mouse", 
                     imageUrl: 'https://m.media-amazon.com/images/I/61lCJsdW2XL._AC_SL1336_.jpg', 
-                    url: "https://www.amazon.com.mx/Sega-Persona-Tactica-para-PlayStation/dp/B0C8VHCHX4/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KGM7DZN1D9Y8&dib=eyJ2IjoiMSJ9.Q_qT3TYQPeuNlBJSLxypi-9h1FTCcdOaKQDEytYstBgCUo3RW6_nTl7P7ctH2GG2-RWDy4V41aJB9ZGYXUjoAWA_8x8yFTNyi2nZHBl1zZq5jtEshO-mU3hXW6_Hn5A1TBDz9gek7PBZ7QtpcKQZC5oMgn_My6a_C0I8pzC6BO4HDohvrti5fW7KiRgHYQK8kt1Z71ASqDZ3KN4DVbJLeW3FSc5FTB_Fb3_5R90zCrw.ezBEKrmLTbb_ncLwNHQUPX2GDhSdq1XSXGBvtHNJxkg&dib_tag=se&keywords=persona+5+tactica+ps5&qid=1762839296&s=videogames&sprefix=persona+5+tactica+ps%2Cvideogames%2C167&sr=1-1&ufe=app_do%3Aamzn1.fos.45030d3a-91a9-4303-890a-776dee9077c1",
+                    url: "https://www.amazon.com.mx/TERPORT-12000DPI-Ajustables-Programables-Computadora/dp/B0C3QG5YMM/ref=mp_s_a_1_16?crid=3A1H7AS8100QG&dib=eyJ2IjoiMSJ9.cdrUBZk76HIjm6ZOlJjkaq9f48OWWKUnjkS-BpJ2BatJ8abl0CXuOzT7-8GexIz8jvwqzm_tJ_Xcw8Gu-jPWUW3mY_-ZHnBlSZaIDoPZguYkmvitbhDG-zLn1KTyYaSvWr67gMgAlV2p5CvsbjvmSdOHUVV8a9LoTsqAHG5he4vgTcJSwe5qgKCa-bvFH6jiFE8iv9rvDRY5G3_c2doQKg._xV5RaprI-7IyruFG8TDXITwkRxrTKgyctVkPjXDiDs&dib_tag=se&keywords=mouse+alambrico+gamer&qid=1763141095&refinements=p_85%3A9841545011&rnid=9754434011&rps=1&sprefix=%2Caps%2C126&sr=8-16&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
                     price: "$291.00" 
                 },
                 { 
