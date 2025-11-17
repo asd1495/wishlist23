@@ -94,7 +94,18 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 
         "Téllez Dávila": { 
             "Saúl": [ 
-
+                {
+                    title: "Mochila",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_888707-MLM70140216087_062023-F-bolso-mariconera-hombre-maletin-bandoleras-y-billetera-kit.webp",
+                    url: "https://articulo.mercadolibre.com.mx/MLM-1874007765-bolso-mariconera-hombre-maletin-bandoleras-y-billetera-kit-_JM?attributes=COLOR_SECONDARY_COLOR%3ATWFycsOzbg%3D%3D#origin=share&sid=share&action=whatsapp",
+                    price: "$252.00"
+                },
+                {
+                    title: "Legacy of Kain: Soul Reaver PS5",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_611876-MLM93415404072_092025-F.webp",
+                    url: "https://www.mercadolibre.com.mx/up/MLMU3458404586?pdp_filters=item_id:MLM2477094421#origin=share&sid=share&wid=MLM2477094421&action=whatsapp",
+                    price: "$599.00"
+                },
             ], 
             "Diego": [  
                 { 
@@ -169,7 +180,36 @@ document.addEventListener('DOMContentLoaded', function() {
   
             ], 
             "Isra": [ 
-
+                {
+                    title: "Bocina Bluetooth",
+                    imageUrl: "https://m.media-amazon.com/images/I/51r+ULfjF7L._AC_SL1125_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0DHFZW4CV?_encoding=UTF8&psc=1&ref=cm_sw_r_cp_ud_dp_4PG133ZQCKVXAKYY0KWH&ref_=cm_sw_r_cp_ud_dp_4PG133ZQCKVXAKYY0KWH&social_share=cm_sw_r_cp_ud_dp_4PG133ZQCKVXAKYY0KWH",
+                    price: "$419.00"
+                },
+                {
+                    title: "Audífonos Soundcore",
+                    imageUrl: "https://m.media-amazon.com/images/I/51o+LynoCUL._AC_SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0BTYCRJSS?ref=cm_sw_r_cp_ud_dp_FNTZR3Y51GSABHK21FXQ&ref_=cm_sw_r_cp_ud_dp_FNTZR3Y51GSABHK21FXQ&social_share=cm_sw_r_cp_ud_dp_FNTZR3Y51GSABHK21FXQ&th=1",
+                    price: "$379.00"
+                },
+                {
+                    title: "Mochila Adidas",
+                    imageUrl: "https://m.media-amazon.com/images/I/713Oa3wGO7L._AC_SY575_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0CZLQR8CD?ref=cm_sw_r_cp_ud_dp_VW95TQM19716WAGYQ84F&ref_=cm_sw_r_cp_ud_dp_VW95TQM19716WAGYQ84F&social_share=cm_sw_r_cp_ud_dp_VW95TQM19716WAGYQ84F&th=1&psc=1",
+                    price: "$491.00"
+                },
+                {
+                    title: "Libro Wine Folly",
+                    imageUrl: "https://m.media-amazon.com/images/I/91B9QbDFs1L._SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/0525533893?ref=cm_sw_r_cso_cp_apan_dp_ZAJPPDBVTZS52DQ10A29&ref_=cm_sw_r_cso_cp_apan_dp_ZAJPPDBVTZS52DQ10A29&social_share=cm_sw_r_cso_cp_apan_dp_ZAJPPDBVTZS52DQ10A29",
+                    price: "$165.00"
+                },
+                {
+                    title: "Funda Switch Lite",
+                    imageUrl: "https://m.media-amazon.com/images/I/71mZdLY9y0L._AC_SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B08911HS3H?_encoding=UTF8&ref=cm_sw_r_cp_ud_dp_HTXZWFWEX51Y9CKW2R50&ref_=cm_sw_r_cp_ud_dp_HTXZWFWEX51Y9CKW2R50&social_share=cm_sw_r_cp_ud_dp_HTXZWFWEX51Y9CKW2R50&th=1",
+                    price: "$346.00"
+                },
             ], 
             "Tía Edith": [ 
  
