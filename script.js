@@ -90,6 +90,12 @@ document.addEventListener('DOMContentLoaded', function() {
                     url: "https://www.amazon.com.mx/dp/B0918BVR4N?ref=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&ref_=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&social_share=cm_sw_r_cso_wa_apan_dp_M9VAZ32CMT3SZH2Y8Y6G&th=1",
                     price: "$382.00" 
                 }, 
+                { 
+                    title: "Libro 'Los vendedores de almas'", 
+                    imageUrl: "https://m.media-amazon.com/images/I/71BuXjuVxAL._SL1500_.jpg", 
+                    url: "https://www.amazon.com.mx/vendedores-almas-Alejandro-P%C3%A1ez-Varela/dp/6073859325/ref=sr_1_1?crid=2UHJVKS1PKY64&dib=eyJ2IjoiMSJ9.K4r9Jzpq0Pjrm88GfZBgXToEvFhbVNjxcQ1LONfbUwmYOO1ckIGm8Y6aLWdKXKOZW9bLS75Z870LXyjX2k_BzNyXloE5PIKCcjQnqpYX8zSPcNXE95i6LfKUhn0d6UKi.sxIeIZNUM4NQsL-zB3wt56-89Q2djLCir-jxvwNQiw4&dib_tag=se&keywords=los+vendedores+de+almas&qid=1763509484&sprefix=los+vend%2Caps%2C271&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+                    price: "$382.00" 
+                }, 
             ] 
         }, 
         "Téllez Dávila": { 
