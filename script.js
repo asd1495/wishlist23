@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     title: "Libro 'Los vendedores de almas'", 
                     imageUrl: "https://m.media-amazon.com/images/I/71BuXjuVxAL._SL1500_.jpg", 
                     url: "https://www.amazon.com.mx/vendedores-almas-Alejandro-P%C3%A1ez-Varela/dp/6073859325/ref=sr_1_1?crid=2UHJVKS1PKY64&dib=eyJ2IjoiMSJ9.K4r9Jzpq0Pjrm88GfZBgXToEvFhbVNjxcQ1LONfbUwmYOO1ckIGm8Y6aLWdKXKOZW9bLS75Z870LXyjX2k_BzNyXloE5PIKCcjQnqpYX8zSPcNXE95i6LfKUhn0d6UKi.sxIeIZNUM4NQsL-zB3wt56-89Q2djLCir-jxvwNQiw4&dib_tag=se&keywords=los+vendedores+de+almas&qid=1763509484&sprefix=los+vend%2Caps%2C271&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-                    price: "$382.00" 
+                    price: "$269.00" 
                 }, 
             ] 
         }, 
@@ -264,7 +264,18 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 
         "Espinoza Dávila": { 
             "Tía Trini": [ 
- 
+                {
+                    title: "Bolsa impermeable",
+                    imageUrl: "https://m.media-amazon.com/images/I/61Djlumnm1L._AC_SX569_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0C8HPF9LF?ref=cm_sw_r_cso_wa_apan_dp_6R57DR9T30JJ1VSNMKXT&ref_=cm_sw_r_cso_wa_apan_dp_6R57DR9T30JJ1VSNMKXT&social_share=cm_sw_r_cso_wa_apan_dp_6R57DR9T30JJ1VSNMKXT&th=1",
+                    price: "$269.00"
+                },
+                {
+                    title: "Bolsa crossbody",
+                    imageUrl: "https://m.media-amazon.com/images/I/615Xv-Rz0qL._AC_SX569_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0BWMSP4LP?ref=cm_sw_r_cso_wa_apan_dp_3WFQZD0VQNTWSVSE2Q7W&ref_=cm_sw_r_cso_wa_apan_dp_3WFQZD0VQNTWSVSE2Q7W&social_share=cm_sw_r_cso_wa_apan_dp_3WFQZD0VQNTWSVSE2Q7W&th=1",
+                    price: "$179.00"
+                },
             ], 
             "Tío Alexis": [ 
  
