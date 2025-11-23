@@ -155,7 +155,30 @@ document.addEventListener('DOMContentLoaded', function() {
  
             ], 
             "David": [ 
- 
+                {
+                    title: "Juego sábanos bazarú 1800 microlisa",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_937516-MLA96641089139_102025-F.webp",
+                    url: "https://www.mercadolibre.com.mx/juego-sabanas-bazaru-1800-microlisa-premium-color-a-color-beige-diseno-de-la-tela-liso/p/MLM52364993?pdp_filters=item_id%3AMLM3833602886#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=322b2eb8-244f-4434-9c3a-800d350e439b&tracking_id=926edf18-0cc2-475f-87fe-7975735c1cb5&wid=MLM3833602886&sid=recos&c_id=/home/card-featured/element&c_uid=8376149f-f9e9-4ff7-a75f-b7739465369a",
+                    price: "$175"
+                },
+                {
+                    title: "GTA Trilogy PS4",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_785313-MLA96103274427_102025-F.webp",
+                    url: "https://www.mercadolibre.com.mx/grand-theft-auto-the-trilogy-definitive-edition-ps4/p/MLM19176608#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=95f37602-319a-4314-9455-500053dc51e8&tracking_id=4f052d31-9b8d-461e-8d49-9b4e3b78c110&wid=MLM2323855763&sid=recos&c_id=/home/card-featured/element&c_uid=f4641af0-2ecd-431b-a578-eb3c95c66f2e",
+                    price: "$517"
+                },
+                {
+                    title: "Reloj Curren",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_854785-MLA95737691934_102025-F.webp",
+                    url: "https://www.mercadolibre.com.mx/reloj-curren-hombre-analogo-fechador-cuarzo-acero-ejecutivo-color-de-la-correa-plateado/p/MLM25360139#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=29951b56-32d5-411b-85a4-e8cc4f988c88&tracking_id=15894ad6-4818-485a-b18b-cb904f214d29&wid=MLM2600290722&sid=recos&c_id=/home/card-featured/element&c_uid=01f52756-b7ff-4e34-a34e-bc6c0e8da491",
+                    price: "$243"
+                },
+                {
+                    title: "Paquete de 5 playeras",
+                    imageUrl: "https://http2.mlstatic.com/D_NQ_NP_2X_735400-MLM74607490185_022024-F-pack-5-pzs-playera-adulto-mcorta-cuello-redondo-algodon.webp",
+                    url: "https://articulo.mercadolibre.com.mx/MLM-2021879993-pack-5-pzs-playera-adulto-mcorta-cuello-redondo-algodon-_JM?searchVariation=179855238916#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=eb739672-d5c8-45bb-8f9d-b8acf4527a0e&tracking_id=a75c1836-e55a-4999-83b8-9613eada2779&c_id=/home/card-featured/element&c_uid=cd4b7910-37cc-4360-befa-ba637a972571",
+                    price: "$359"
+                },
             ], 
             "Tía Pilar": [ 
  
