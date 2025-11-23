@@ -152,7 +152,18 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
             ], 
             "Pili": [ 
- 
+                {
+                    title: "JETech funda Samsung Tab S10+",
+                    imageUrl: "https://m.media-amazon.com/images/I/61ylBX2NdSL._AC_SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0DCF8M86T?ref=cm_sw_r_cso_wa_apan_dp_WFQB55QDB4ZZFZK604NN&ref_=cm_sw_r_cso_wa_apan_dp_WFQB55QDB4ZZFZK604NN&social_share=cm_sw_r_cso_wa_apan_dp_WFQB55QDB4ZZFZK604NN&th=1",
+                    price: "$459"
+                },
+                {
+                    title: "Funda Galaxy Tab S10+ con teclado",
+                    imageUrl: "https://m.media-amazon.com/images/I/61Ps0ONfQ5L._AC_SL1500_.jpg",
+                    url: "https://www.amazon.com.mx/dp/B0CR3VG5TN?ref=cm_sw_r_cso_wa_apan_dp_169E6ARSRETKZ9TWVVJ0&ref_=cm_sw_r_cso_wa_apan_dp_169E6ARSRETKZ9TWVVJ0&social_share=cm_sw_r_cso_wa_apan_dp_169E6ARSRETKZ9TWVVJ0&th=1",
+                    price: "$530"
+                },
             ], 
             "David": [ 
                 {
